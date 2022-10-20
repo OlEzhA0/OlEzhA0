@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oleg and I have specify username 😅 @OlEzhA0
-- 🦾 I work at [Sigma Software](https://sigma.software/)
+- 🦾 I work at [Madigcx](https://app.madgicx.com/)
 - 👀 I’m interested in JavaScript, TypeScript, Node.js etc..
 - 📫 You can find me in Instagram - @oleg.medushevskiy
 
